@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/</loc>
+        
+        <changefreq>daily</changefreq>
+        
+        <priority>1.0</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/find</loc>
+        
+        <changefreq>weekly</changefreq>
+        
+        <priority>0.9</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/services</loc>
+        
+        <changefreq>weekly</changefreq>
+        
+        <priority>0.8</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/help</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.8</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/find/databases</loc>
+        
+        <changefreq>daily</changefreq>
+        
+        <priority>0.8</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/collections</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.7</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/about/about-the-libraries</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.7</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/find/find-books</loc>
+        
+        <changefreq>yearly</changefreq>
+        
+        <priority>0.7</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/speccoll</loc>
+        
+        <changefreq>weekly</changefreq>
+        
+        <priority>0.7</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/services/study-rooms</loc>
+        
+        <changefreq>weekly</changefreq>
+        
+        <priority>0.7</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/help/research/start-your-research</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.7</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/grateful-dead-archive</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.6</priority>
+        
+    </url>
+    
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/about/library-contacts</loc>
+        
+        <changefreq>weekly</changefreq>
+        
+        <priority>0.6</priority>
+        
+    </url>
+    
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/about/locations-directions</loc>
+        
+        <changefreq>yearly</changefreq>
+        
+        <priority>0.6</priority>
+        
+    </url>
+    
+    <url>
+        
+        <loc>http://library.ucsc.edu/video-games</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.6</priority>
+        
+    </url>  
+    
+    <url>
+        
+        <loc>http://guides.library.ucsc.edu/az.php?q=psycinfo</loc>
+        
+        <changefreq>monthly</changefreq>
+        
+        <priority>0.8</priority>
+    
+</urlset>
